@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "request": "^2.72.0",
-    "moment": "^2.13.0",
+    "moment": "^2.13.0"
   },
   "repository": {
     "type": "git",
